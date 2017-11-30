@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		180E7EED1FCFD5C500196979 /* WMPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 180E7EEC1FCFD5C500196979 /* WMPerson.m */; };
 		1831D1EB1FCFB61500EB35E1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1831D1EA1FCFB61500EB35E1 /* AppDelegate.m */; };
 		1831D1EE1FCFB61500EB35E1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1831D1ED1FCFB61500EB35E1 /* ViewController.m */; };
 		1831D1F11FCFB61500EB35E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1831D1EF1FCFB61500EB35E1 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		180E7EEB1FCFD5C500196979 /* WMPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WMPerson.h; sourceTree = "<group>"; };
+		180E7EEC1FCFD5C500196979 /* WMPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WMPerson.m; sourceTree = "<group>"; };
 		1831D1E61FCFB61500EB35E1 /* WMYVIew.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WMYVIew.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1831D1E91FCFB61500EB35E1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1831D1EA1FCFB61500EB35E1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				1831D1EA1FCFB61500EB35E1 /* AppDelegate.m */,
 				1831D1EC1FCFB61500EB35E1 /* ViewController.h */,
 				1831D1ED1FCFB61500EB35E1 /* ViewController.m */,
+				180E7EEB1FCFD5C500196979 /* WMPerson.h */,
+				180E7EEC1FCFD5C500196979 /* WMPerson.m */,
 				1831D1EF1FCFB61500EB35E1 /* Main.storyboard */,
 				1831D1F21FCFB61500EB35E1 /* Assets.xcassets */,
 				1831D1F41FCFB61500EB35E1 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				180E7EED1FCFD5C500196979 /* WMPerson.m in Sources */,
 				1831D1EE1FCFB61500EB35E1 /* ViewController.m in Sources */,
 				1831D1F91FCFB61500EB35E1 /* main.m in Sources */,
 				1831D1EB1FCFB61500EB35E1 /* AppDelegate.m in Sources */,
